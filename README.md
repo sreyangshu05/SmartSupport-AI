@@ -90,7 +90,7 @@ Frontend (React) ↔ Backend API (FastAPI) ↔ PostgreSQL + Elasticsearch + Vect
 Clone the repo
 
 ```bash
-  git clone https://github.com/<your-username>/SmartSupport-AI.git
+  git clone https://github.com/sreyangshu05/SmartSupport-AI.git
   cd SmartSupport-AI
   npm install
   npm run dev
